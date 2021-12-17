@@ -1,0 +1,154 @@
+.fb_logo {
+    margin-top: 40px;
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    margin-bottom: 20px;
+}
+
+.form_input {
+    padding: 12px;
+    width: 300px;
+    border: none;
+    background-color: #f5f6f7;
+    border-radius: 7px;
+    height: 18px;
+    display: block;
+    position: relative;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.form_input_btn {
+    color: #ffff;
+    font-size: 1rem;
+    font-weight: bolder;
+    background-color: #1877f2;
+    border-radius: 7px;
+    border: none;
+    width: 320px;
+    height: 42px;
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.frgt_pass {
+    margin-top: 10px;
+    color: #216fdb;
+    font-family: 'Roboto-Regular', 'Helvetica', 'sans-serif';
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 16px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+.div_or {
+    display: block;
+    text-align: center;
+    margin-top: -10px;
+}
+.line1 {
+    display: inline-block;
+    background-color: rgba(173, 173, 173, 0.6);
+    height: 1.5px;
+    width: 133px;
+}
+.or_text {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.line2 {
+    display: inline-block;
+    background-color: rgb(173, 173, 173, 0.6);
+    height: 1.5px;
+    width: 133px;
+}
+
+.create_new_ac {
+    color: #ffff;
+    font-size: 0.8.9rem;
+    font-weight: bold;
+    background-color: #00a400;
+    border-radius: 7px;
+    border: none;
+    width: 170px;
+    height: 35px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+/* LANGUAGE_SECTION */
+.language{
+    margin-top: 50px;
+}
+
+.bhasa_row {
+    padding-left: 30px !important;
+}
+
+
+.second_language{
+    margin-left: 120px !important;
+    margin-top: 40px !important;
+}
+
+.eng_language{
+    font-weight: bold;
+    color: #3b3a3a99;
+    font-size: 0.9rem;
+
+
+}
+.right_language{
+    font-size: 0.8rem;
+    font-weight: normal;
+    margin-left: 22px;
+    margin-top: -15px;
+}
+
+.espanol{
+    margin-left: 16px !important;
+}
+
+/* LEFT_LANGUAGE_SECTION */
+.left_language{
+    font-size: 0.8rem;
+    font-weight: normal;
+    margin-left: 22px;
+    margin-top: -15px;
+}
+
+.butt_on{
+    margin-top: -15px;
+    margin-left: 2px;
+}
+.button{
+    margin-left: 23px;
+    font-size:1.1rem;
+    color: #3b3a3a99;
+    font-weight: bolder;
+    background-color: #ffff;
+    border-radius: 5px;
+    border:solid 1px black !important;
+    height: 25px;
+    padding: 1px 6px;
+
+}
+
+div.second_language p.left_language:nth-child(2){
+    margin-left: 25px;
+}
+.last_section{
+    height: 100px;
+    text-align: center;
+}
+.footer_fb{
+    margin-top: -20px;
+    color: #3b3a3a99;
+}
+
